@@ -1,0 +1,2675 @@
+('D:\\ocenchik.ru\\build\\MainCalender\\PYZ-00.pyz',
+ [('Global_var', 'D:\\ocenchik.ru\\Global_var.py', 'PYMODULE'),
+  ('OpenSSL',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenSSL\\__init__.py',
+   'PYMODULE'),
+  ('OpenSSL.SSL',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenSSL\\SSL.py',
+   'PYMODULE'),
+  ('OpenSSL._util',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenSSL\\_util.py',
+   'PYMODULE'),
+  ('OpenSSL.crypto',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenSSL\\crypto.py',
+   'PYMODULE'),
+  ('OpenSSL.version',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\OpenSSL\\version.py',
+   'PYMODULE'),
+  ('TOTS3UploadLibrary', '-', 'PYMODULE'),
+  ('TOTS3UploadLibrary.upload',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\TOTS3UploadLibrary\\upload.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('boto3',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\__init__.py',
+   'PYMODULE'),
+  ('boto3.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\compat.py',
+   'PYMODULE'),
+  ('boto3.crt',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\crt.py',
+   'PYMODULE'),
+  ('boto3.docs',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\__init__.py',
+   'PYMODULE'),
+  ('boto3.docs.action',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\action.py',
+   'PYMODULE'),
+  ('boto3.docs.attr',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\attr.py',
+   'PYMODULE'),
+  ('boto3.docs.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\base.py',
+   'PYMODULE'),
+  ('boto3.docs.client',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\client.py',
+   'PYMODULE'),
+  ('boto3.docs.collection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\collection.py',
+   'PYMODULE'),
+  ('boto3.docs.docstring',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\docstring.py',
+   'PYMODULE'),
+  ('boto3.docs.method',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\method.py',
+   'PYMODULE'),
+  ('boto3.docs.resource',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\resource.py',
+   'PYMODULE'),
+  ('boto3.docs.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\service.py',
+   'PYMODULE'),
+  ('boto3.docs.subresource',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\subresource.py',
+   'PYMODULE'),
+  ('boto3.docs.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\utils.py',
+   'PYMODULE'),
+  ('boto3.docs.waiter',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\docs\\waiter.py',
+   'PYMODULE'),
+  ('boto3.dynamodb',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\dynamodb\\__init__.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.conditions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\dynamodb\\conditions.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.table',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\dynamodb\\table.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.transform',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\dynamodb\\transform.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.types',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\dynamodb\\types.py',
+   'PYMODULE'),
+  ('boto3.ec2',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\ec2\\__init__.py',
+   'PYMODULE'),
+  ('boto3.ec2.createtags',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\ec2\\createtags.py',
+   'PYMODULE'),
+  ('boto3.ec2.deletetags',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\ec2\\deletetags.py',
+   'PYMODULE'),
+  ('boto3.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\exceptions.py',
+   'PYMODULE'),
+  ('boto3.resources',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\__init__.py',
+   'PYMODULE'),
+  ('boto3.resources.action',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\action.py',
+   'PYMODULE'),
+  ('boto3.resources.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\base.py',
+   'PYMODULE'),
+  ('boto3.resources.collection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\collection.py',
+   'PYMODULE'),
+  ('boto3.resources.factory',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\factory.py',
+   'PYMODULE'),
+  ('boto3.resources.model',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\model.py',
+   'PYMODULE'),
+  ('boto3.resources.params',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\params.py',
+   'PYMODULE'),
+  ('boto3.resources.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\resources\\response.py',
+   'PYMODULE'),
+  ('boto3.s3',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\s3\\__init__.py',
+   'PYMODULE'),
+  ('boto3.s3.constants',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\s3\\constants.py',
+   'PYMODULE'),
+  ('boto3.s3.inject',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\s3\\inject.py',
+   'PYMODULE'),
+  ('boto3.s3.transfer',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\s3\\transfer.py',
+   'PYMODULE'),
+  ('boto3.session',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\session.py',
+   'PYMODULE'),
+  ('boto3.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\boto3\\utils.py',
+   'PYMODULE'),
+  ('botocore',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\__init__.py',
+   'PYMODULE'),
+  ('botocore.args',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\args.py',
+   'PYMODULE'),
+  ('botocore.auth',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\auth.py',
+   'PYMODULE'),
+  ('botocore.awsrequest',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\awsrequest.py',
+   'PYMODULE'),
+  ('botocore.client',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\client.py',
+   'PYMODULE'),
+  ('botocore.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\compat.py',
+   'PYMODULE'),
+  ('botocore.compress',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\compress.py',
+   'PYMODULE'),
+  ('botocore.config',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\config.py',
+   'PYMODULE'),
+  ('botocore.configloader',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\configloader.py',
+   'PYMODULE'),
+  ('botocore.configprovider',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\configprovider.py',
+   'PYMODULE'),
+  ('botocore.credentials',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\credentials.py',
+   'PYMODULE'),
+  ('botocore.crt',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\crt\\__init__.py',
+   'PYMODULE'),
+  ('botocore.crt.auth',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\crt\\auth.py',
+   'PYMODULE'),
+  ('botocore.discovery',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\discovery.py',
+   'PYMODULE'),
+  ('botocore.docs',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\__init__.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\bcdoc\\__init__.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.docstringparser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\bcdoc\\docstringparser.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.restdoc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\bcdoc\\restdoc.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.style',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\bcdoc\\style.py',
+   'PYMODULE'),
+  ('botocore.docs.client',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\client.py',
+   'PYMODULE'),
+  ('botocore.docs.docstring',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\docstring.py',
+   'PYMODULE'),
+  ('botocore.docs.example',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\example.py',
+   'PYMODULE'),
+  ('botocore.docs.method',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\method.py',
+   'PYMODULE'),
+  ('botocore.docs.paginator',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\paginator.py',
+   'PYMODULE'),
+  ('botocore.docs.params',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\params.py',
+   'PYMODULE'),
+  ('botocore.docs.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\service.py',
+   'PYMODULE'),
+  ('botocore.docs.shape',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\shape.py',
+   'PYMODULE'),
+  ('botocore.docs.sharedexample',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\sharedexample.py',
+   'PYMODULE'),
+  ('botocore.docs.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\utils.py',
+   'PYMODULE'),
+  ('botocore.docs.waiter',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\docs\\waiter.py',
+   'PYMODULE'),
+  ('botocore.endpoint',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\endpoint.py',
+   'PYMODULE'),
+  ('botocore.endpoint_provider',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\endpoint_provider.py',
+   'PYMODULE'),
+  ('botocore.errorfactory',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\errorfactory.py',
+   'PYMODULE'),
+  ('botocore.eventstream',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\eventstream.py',
+   'PYMODULE'),
+  ('botocore.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\exceptions.py',
+   'PYMODULE'),
+  ('botocore.handlers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\handlers.py',
+   'PYMODULE'),
+  ('botocore.history',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\history.py',
+   'PYMODULE'),
+  ('botocore.hooks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\hooks.py',
+   'PYMODULE'),
+  ('botocore.httpchecksum',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\httpchecksum.py',
+   'PYMODULE'),
+  ('botocore.httpsession',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\httpsession.py',
+   'PYMODULE'),
+  ('botocore.loaders',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\loaders.py',
+   'PYMODULE'),
+  ('botocore.model',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\model.py',
+   'PYMODULE'),
+  ('botocore.monitoring',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\monitoring.py',
+   'PYMODULE'),
+  ('botocore.paginate',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\paginate.py',
+   'PYMODULE'),
+  ('botocore.parsers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\parsers.py',
+   'PYMODULE'),
+  ('botocore.regions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\regions.py',
+   'PYMODULE'),
+  ('botocore.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\response.py',
+   'PYMODULE'),
+  ('botocore.retries',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\__init__.py',
+   'PYMODULE'),
+  ('botocore.retries.adaptive',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\adaptive.py',
+   'PYMODULE'),
+  ('botocore.retries.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\base.py',
+   'PYMODULE'),
+  ('botocore.retries.bucket',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\bucket.py',
+   'PYMODULE'),
+  ('botocore.retries.quota',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\quota.py',
+   'PYMODULE'),
+  ('botocore.retries.special',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\special.py',
+   'PYMODULE'),
+  ('botocore.retries.standard',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\standard.py',
+   'PYMODULE'),
+  ('botocore.retries.throttling',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retries\\throttling.py',
+   'PYMODULE'),
+  ('botocore.retryhandler',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\retryhandler.py',
+   'PYMODULE'),
+  ('botocore.serialize',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\serialize.py',
+   'PYMODULE'),
+  ('botocore.session',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\session.py',
+   'PYMODULE'),
+  ('botocore.signers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\signers.py',
+   'PYMODULE'),
+  ('botocore.tokens',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\tokens.py',
+   'PYMODULE'),
+  ('botocore.translate',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\translate.py',
+   'PYMODULE'),
+  ('botocore.useragent',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\useragent.py',
+   'PYMODULE'),
+  ('botocore.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\utils.py',
+   'PYMODULE'),
+  ('botocore.validate',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\validate.py',
+   'PYMODULE'),
+  ('botocore.vendored',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\requests\\__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages.urllib3',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages.urllib3.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\requests\\packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('botocore.vendored.six',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\vendored\\six.py',
+   'PYMODULE'),
+  ('botocore.waiter',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\botocore\\waiter.py',
+   'PYMODULE'),
+  ('brotli',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\brotli.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('chardet',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\__init__.py',
+   'PYMODULE'),
+  ('chardet.big5freq',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5freq.py',
+   'PYMODULE'),
+  ('chardet.big5prober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\big5prober.py',
+   'PYMODULE'),
+  ('chardet.chardistribution',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\chardistribution.py',
+   'PYMODULE'),
+  ('chardet.charsetgroupprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetgroupprober.py',
+   'PYMODULE'),
+  ('chardet.charsetprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\charsetprober.py',
+   'PYMODULE'),
+  ('chardet.codingstatemachine',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\codingstatemachine.py',
+   'PYMODULE'),
+  ('chardet.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\compat.py',
+   'PYMODULE'),
+  ('chardet.cp949prober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\cp949prober.py',
+   'PYMODULE'),
+  ('chardet.enums',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\enums.py',
+   'PYMODULE'),
+  ('chardet.escprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escprober.py',
+   'PYMODULE'),
+  ('chardet.escsm',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\escsm.py',
+   'PYMODULE'),
+  ('chardet.eucjpprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\eucjpprober.py',
+   'PYMODULE'),
+  ('chardet.euckrfreq',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrfreq.py',
+   'PYMODULE'),
+  ('chardet.euckrprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euckrprober.py',
+   'PYMODULE'),
+  ('chardet.euctwfreq',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwfreq.py',
+   'PYMODULE'),
+  ('chardet.euctwprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\euctwprober.py',
+   'PYMODULE'),
+  ('chardet.gb2312freq',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312freq.py',
+   'PYMODULE'),
+  ('chardet.gb2312prober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\gb2312prober.py',
+   'PYMODULE'),
+  ('chardet.hebrewprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\hebrewprober.py',
+   'PYMODULE'),
+  ('chardet.jisfreq',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jisfreq.py',
+   'PYMODULE'),
+  ('chardet.jpcntx',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\jpcntx.py',
+   'PYMODULE'),
+  ('chardet.langbulgarianmodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langbulgarianmodel.py',
+   'PYMODULE'),
+  ('chardet.langcyrillicmodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langcyrillicmodel.py',
+   'PYMODULE'),
+  ('chardet.langgreekmodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langgreekmodel.py',
+   'PYMODULE'),
+  ('chardet.langhebrewmodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langhebrewmodel.py',
+   'PYMODULE'),
+  ('chardet.langthaimodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langthaimodel.py',
+   'PYMODULE'),
+  ('chardet.langturkishmodel',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\langturkishmodel.py',
+   'PYMODULE'),
+  ('chardet.latin1prober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\latin1prober.py',
+   'PYMODULE'),
+  ('chardet.mbcharsetprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.mbcsgroupprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.mbcssm',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\mbcssm.py',
+   'PYMODULE'),
+  ('chardet.sbcharsetprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcharsetprober.py',
+   'PYMODULE'),
+  ('chardet.sbcsgroupprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sbcsgroupprober.py',
+   'PYMODULE'),
+  ('chardet.sjisprober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\sjisprober.py',
+   'PYMODULE'),
+  ('chardet.universaldetector',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\universaldetector.py',
+   'PYMODULE'),
+  ('chardet.utf8prober',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\utf8prober.py',
+   'PYMODULE'),
+  ('chardet.version',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\chardet\\version.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('collectlink', 'D:\\ocenchik.ru\\collectlink.py', 'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('cryptography',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.__about__',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\__about__.py',
+   'PYMODULE'),
+  ('cryptography.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\exceptions.py',
+   'PYMODULE'),
+  ('cryptography.hazmat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat._oid',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\_oid.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.aead',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.backend',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\backend.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.ciphers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\ciphers.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.backends.openssl.decode_asn1',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\backends\\openssl\\decode_asn1.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl._conditional',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\_conditional.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.bindings.openssl.binding',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\bindings\\openssl\\binding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._asymmetric',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_asymmetric.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._cipheralgorithm',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_cipheralgorithm.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives._serialization',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\_serialization.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dh',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dh.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.dsa',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\dsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ec',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ec.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed25519',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.ed448',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\ed448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.padding',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\padding.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.rsa',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\rsa.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.types',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\types.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\utils.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x25519',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x25519.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.asymmetric.x448',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\asymmetric\\x448.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.aead',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\aead.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.algorithms',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\algorithms.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.ciphers.modes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\ciphers\\modes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.constant_time',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\constant_time.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.hashes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\hashes.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\base.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.pkcs12',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\pkcs12.py',
+   'PYMODULE'),
+  ('cryptography.hazmat.primitives.serialization.ssh',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\hazmat\\primitives\\serialization\\ssh.py',
+   'PYMODULE'),
+  ('cryptography.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\utils.py',
+   'PYMODULE'),
+  ('cryptography.x509',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\__init__.py',
+   'PYMODULE'),
+  ('cryptography.x509.base',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\base.py',
+   'PYMODULE'),
+  ('cryptography.x509.certificate_transparency',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\certificate_transparency.py',
+   'PYMODULE'),
+  ('cryptography.x509.extensions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\extensions.py',
+   'PYMODULE'),
+  ('cryptography.x509.general_name',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\general_name.py',
+   'PYMODULE'),
+  ('cryptography.x509.name',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\name.py',
+   'PYMODULE'),
+  ('cryptography.x509.oid',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\oid.py',
+   'PYMODULE'),
+  ('cryptography.x509.verification',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cryptography\\x509\\verification.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('database', 'D:\\ocenchik.ru\\database.py', 'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('dateutil',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('insert_on_database', 'D:\\ocenchik.ru\\insert_on_database.py', 'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('jmespath',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\__init__.py',
+   'PYMODULE'),
+  ('jmespath.ast',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\ast.py',
+   'PYMODULE'),
+  ('jmespath.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\compat.py',
+   'PYMODULE'),
+  ('jmespath.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\exceptions.py',
+   'PYMODULE'),
+  ('jmespath.functions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\functions.py',
+   'PYMODULE'),
+  ('jmespath.lexer',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\lexer.py',
+   'PYMODULE'),
+  ('jmespath.parser',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\parser.py',
+   'PYMODULE'),
+  ('jmespath.visitor',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\jmespath\\visitor.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pymysql',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\__init__.py',
+   'PYMODULE'),
+  ('pymysql._auth',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\_auth.py',
+   'PYMODULE'),
+  ('pymysql.charset',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\charset.py',
+   'PYMODULE'),
+  ('pymysql.connections',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\connections.py',
+   'PYMODULE'),
+  ('pymysql.constants',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\__init__.py',
+   'PYMODULE'),
+  ('pymysql.constants.CLIENT',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\CLIENT.py',
+   'PYMODULE'),
+  ('pymysql.constants.COMMAND',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\COMMAND.py',
+   'PYMODULE'),
+  ('pymysql.constants.CR',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\CR.py',
+   'PYMODULE'),
+  ('pymysql.constants.ER',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\ER.py',
+   'PYMODULE'),
+  ('pymysql.constants.FIELD_TYPE',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\FIELD_TYPE.py',
+   'PYMODULE'),
+  ('pymysql.constants.SERVER_STATUS',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\constants\\SERVER_STATUS.py',
+   'PYMODULE'),
+  ('pymysql.converters',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\converters.py',
+   'PYMODULE'),
+  ('pymysql.cursors',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\cursors.py',
+   'PYMODULE'),
+  ('pymysql.err',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\err.py',
+   'PYMODULE'),
+  ('pymysql.optionfile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\optionfile.py',
+   'PYMODULE'),
+  ('pymysql.protocol',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\protocol.py',
+   'PYMODULE'),
+  ('pymysql.times',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pymysql\\times.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('s3transfer',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\__init__.py',
+   'PYMODULE'),
+  ('s3transfer.bandwidth',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\bandwidth.py',
+   'PYMODULE'),
+  ('s3transfer.compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\compat.py',
+   'PYMODULE'),
+  ('s3transfer.constants',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\constants.py',
+   'PYMODULE'),
+  ('s3transfer.copies',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\copies.py',
+   'PYMODULE'),
+  ('s3transfer.crt',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\crt.py',
+   'PYMODULE'),
+  ('s3transfer.delete',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\delete.py',
+   'PYMODULE'),
+  ('s3transfer.download',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\download.py',
+   'PYMODULE'),
+  ('s3transfer.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\exceptions.py',
+   'PYMODULE'),
+  ('s3transfer.futures',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\futures.py',
+   'PYMODULE'),
+  ('s3transfer.manager',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\manager.py',
+   'PYMODULE'),
+  ('s3transfer.subscribers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\subscribers.py',
+   'PYMODULE'),
+  ('s3transfer.tasks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\tasks.py',
+   'PYMODULE'),
+  ('s3transfer.upload',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\upload.py',
+   'PYMODULE'),
+  ('s3transfer.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\s3transfer\\utils.py',
+   'PYMODULE'),
+  ('scrap', 'D:\\ocenchik.ru\\scrap.py', 'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('selenium',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\__init__.py',
+   'PYMODULE'),
+  ('selenium.common',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.common.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\common\\exceptions.py',
+   'PYMODULE'),
+  ('selenium.types',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\types.py',
+   'PYMODULE'),
+  ('selenium.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chrome\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chrome\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chrome\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chrome\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chrome\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chromium\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chromium\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chromium\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chromium\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\chromium\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.action_chains',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\action_chains.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.action_builder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\action_builder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.input_device',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\input_device.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.interaction',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\interaction.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_actions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_input',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\key_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.mouse_button',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\mouse_button.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_actions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_input',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\pointer_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_actions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_input',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\actions\\wheel_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.alert',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\alert.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi.script',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\script.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi.session',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\bidi\\session.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.by',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\by.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.desired_capabilities',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\desired_capabilities.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.driver_finder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\driver_finder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.keys',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\keys.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.print_page_options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\print_page_options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.proxy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\proxy.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.selenium_manager',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\selenium_manager.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.timeouts',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\timeouts.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.virtual_authenticator',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\common\\virtual_authenticator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\edge\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\edge\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\edge\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\edge\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\edge\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_binary',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_binary.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_profile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\firefox_profile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\firefox\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\ie\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\ie\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\ie\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\ie\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.bidi_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\bidi_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.command',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\command.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.errorhandler',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\errorhandler.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.file_detector',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\file_detector.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.mobile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\mobile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.script_key',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\script_key.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.shadowroot',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\shadowroot.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.switch_to',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\switch_to.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webelement',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\webelement.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.websocket_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\remote\\websocket_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\safari\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\safari\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.remote_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\safari\\remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\safari\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\safari\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\support\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.relative_locator',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\support\\relative_locator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\webkitgtk\\webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.options',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.service',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.webdriver',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\selenium\\webdriver\\wpewebkit\\webdriver.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('websocket',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\__init__.py',
+   'PYMODULE'),
+  ('websocket._abnf',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_abnf.py',
+   'PYMODULE'),
+  ('websocket._app',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_app.py',
+   'PYMODULE'),
+  ('websocket._cookiejar',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_cookiejar.py',
+   'PYMODULE'),
+  ('websocket._core',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_core.py',
+   'PYMODULE'),
+  ('websocket._exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_exceptions.py',
+   'PYMODULE'),
+  ('websocket._handshake',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_handshake.py',
+   'PYMODULE'),
+  ('websocket._http',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_http.py',
+   'PYMODULE'),
+  ('websocket._logging',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_logging.py',
+   'PYMODULE'),
+  ('websocket._socket',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_socket.py',
+   'PYMODULE'),
+  ('websocket._ssl_compat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_ssl_compat.py',
+   'PYMODULE'),
+  ('websocket._url',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_url.py',
+   'PYMODULE'),
+  ('websocket._utils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\websocket\\_utils.py',
+   'PYMODULE'),
+  ('wx',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\__init__.py',
+   'PYMODULE'),
+  ('wx.__version__',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\__version__.py',
+   'PYMODULE'),
+  ('wx.adv',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\adv.py',
+   'PYMODULE'),
+  ('wx.core',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\core.py',
+   'PYMODULE'),
+  ('wx.html',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\html.py',
+   'PYMODULE'),
+  ('wx.lib',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\lib\\__init__.py',
+   'PYMODULE'),
+  ('wx.lib.colourutils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\lib\\colourutils.py',
+   'PYMODULE'),
+  ('wx.msw',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\wx\\msw.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\__init__.py',
+   'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\domreg.py',
+   'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\minidom.py',
+   'PYMODULE'),
+  ('xml.dom.pulldom',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\pulldom.py',
+   'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\dom\\xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zstandard',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zstandard\\__init__.py',
+   'PYMODULE'),
+  ('zstandard.backend_cffi',
+   'C:\\Users\\Hasan '
+   'Khan\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zstandard\\backend_cffi.py',
+   'PYMODULE')])
