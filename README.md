@@ -59,3 +59,11 @@ Technologies Used
 ^ AWS S3 – file storage integration
 
 ^ Regular Expressions & HTML parsing – for content cleaning
+
+How to Run
+
+* python MainCalender.py
+
+Notes
+
+* Ensure chromedriver is installed and in your PATH
